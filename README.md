@@ -1,3 +1,6 @@
+[![Youtube Tutorial](https://img.youtube.com/vi/M386e36XFmg/0.jpg)](https://www.youtube.com/watch?v=M386e36XFmg)
+
+
 This isn't 1:1 with the video, but this is the script I tried to work off of. Yes I am a two take tony. I sure hope the video doesn't reach 1 hour long...
 
 # Glossary
