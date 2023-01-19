@@ -88,7 +88,6 @@ Right, on to the actual best practices. Here's a behind the scenes look at Sky S
 
 In the background, the shaders are much more simple. Because the players won't be able to look at them up close, you can get a way with saving performance here. The islands closer to the stage have baked AO, but the ones all the way in the back don't.
 
-#
 
 # Closing
 So now you know how to import a background into smash ultimate! We also went over how to improve the quality of materials, as well as some best practices if you want to become the next top stage modder. We didn't touch over the entire Sharp Smash Suite, Lazy Mat is really good if you have excel for organizing materials. You might also need to use img2nutexbGUI if you have normal and prms maps with your import. MagicModel is specifically for models exported via the blender plugin. NumatbGUI and LVDSpec we don't need to go over. UIRetrieve is for when you're ready to make UI. 
@@ -97,6 +96,12 @@ So now you know how to import a background into smash ultimate! We also went ove
 For you UI, Export the stage folder from your `ui/replace` and `replace_patch` folders in arc, and this'll automatically detect which UI to copy over. UI is the same for characters except much easier. I recommend using TNN's [Unrestricted Camera](https://gamebanana.com/mods/38659) and my [Invisible Puffs](https://gamebanana.com/mods/404302) mods to get a good screenshot. Use Special Smash's fixed camera mode to get a good screenshot.
 
 But ya thank you for sitting through ALL of this, or skimming through I won't judge. Just make sure with stage mods PLEASE put some quality into it. I really don't want gamebanana to be flooded with the ***Shiny Blue DK*** of stages. Take pride in your work, and people will appreciate it. Cut corners and people will notice...for the wrong reasons.
+
+## Special Thanks
+
+Thank you to chrispo, C2PO, boop and 4days (huge shoutout) for funding this tutorial on my [kofi page](https://ko-fi.com/csharpm7). I honestly would not have the time to block out this tutorial betwixt Alucard, HDR and other things but I'm glad a tutorial is finally in the hands of the community. Also huge thanks to [Peardian](https://www.models-resource.com/submitter/Peardian/) for ripping the assets and making them publicly available. 
+
+Take care, and mod responsibly. 
 
 
 # FAQS
